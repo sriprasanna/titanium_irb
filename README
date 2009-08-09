@@ -1,0 +1,3 @@
+Here I just copied the js/html/css from _why's 'Try Ruby' site to get a handle on Ruby VM inside Titanium. So far not much luck, evaling strings seems not to work. Maybe this is a good start for developers to play a bit with it, since the debugging capabilities of titanium are pretty much limited. 
+
+You will need the latest Titanium Developer (www.appcelerator.com) to see this work. 
